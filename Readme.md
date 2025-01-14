@@ -1,7 +1,7 @@
 Desafío - Sistema de Gestión de Biblioteca (I)
 --
 
-En este desafío validaremos nuestros conocimientos de creación de proyectos web Spring
+En este  desafío validaremos nuestros conocimientos de creación de proyectos web Spring
 Boot. Para lograrlo, necesitarás aplicar previamente todo el material disponible en la unidad
 correspondiente.
 
